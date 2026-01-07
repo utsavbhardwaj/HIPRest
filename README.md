@@ -113,7 +113,7 @@ Some of the following results are higher than the original paper as we optimized
 If HIPRest helps your research or work, please consider citing HIPRest.
 ```
 {
-    author    = {Aman Kumar ,  Nomesh Shourya Thakur and Suman Sourav},
+    author    = {Aman Kumar ,  Nomesh Shourya Thakur , Suman Sourav and Utsav Bharadwaj},
     title     = {HIREST: Real-Time Image Sharpening via Distilled HINet from Restormer},
     month     = {July},
     year      = {2025},
