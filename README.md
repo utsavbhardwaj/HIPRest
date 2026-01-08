@@ -9,7 +9,7 @@ Due to GitHub size limitations, the full project (including large model files an
 👉 [Click here to download the full project from Google Drive](https://drive.google.com/drive/folders/1nl_JCtxhQ8Rdi8N_oydG-p1cvAoGgSH2?usp=sharing)
 
 ---
-#### Aman Kanodia,Nomesh Shourya Thakur,Suman Sourav
+#### Aman Kanodia,Nomesh Shourya Thakur,Suman Sourav and Utsav Bharadwaj
 #### Paper: Coming Soon..
 >•Goal: Enhance image sharpness in video streams (e.g. video conferencing) by removing blur and restoring details lost due to compression or low resolution. 
 •	Target Performance: Achieve image quality with SSIM > 90% (Structural Similarity) compared to original high-quality frames. Maintain visual fidelity for text, faces, nature scenes, etc. 
